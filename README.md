@@ -6,16 +6,9 @@
 
 <p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.21%E2%80%AFPM.png"> </p>
 
-<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.21%20PM.png"> </p>
-
-<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.29%20PM.png"> </p>
-
-<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.36%20PM.png"> </p>
-
-<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.43%20PM.png"> </p>
-
-<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.50%20PM.png"> </p>
-
-<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.31.01%20PM.png"> </p>
-
-<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.31.09%20PM.png"> </p>
+<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.29%E2%80%AFPM.png"> </p>
+<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.36%E2%80%AFPM.png"> </p>
+<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.43%E2%80%AFPM.png"> </p>
+<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.30.50%E2%80%AFPM.png"> </p>
+<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.31.01%E2%80%AFPM.png"> </p>
+<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/blob/main/Project%20presentation/Screenshot%202025-02-20%20at%2012.31.09%E2%80%AFPM.png"> </p>
