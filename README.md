@@ -4,7 +4,11 @@
 ## Keywords: Mathematical expression, Supervisedlearning, OCR,CNN, Resnet18.
 # Project Presentation
 
+<p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/Project presentation/Screenshot 2025-02-20 at 12.30.21 PM.png"> </p>
 <p align="center"> <img src="Project presentation/Screenshot 2025-02-20 at 12.30.21 PM.png"> </p>
+
+![At a glace](<Project presentation/Screenshot 2025-02-20 at 12.30.21 PM.png>)
+
 
 ![Screenshot 2025-02-20 at 12.30.21 PM](Project%20presentation/Screenshot%202025-02-20%20at%2012.30.21%20PM.png)
 
