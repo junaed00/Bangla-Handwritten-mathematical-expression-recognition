@@ -7,6 +7,9 @@
 <p align="center"> <img src="https://github.com/junaed00/Bangla-Handwritten-mathematical-expression-recognition/Project presentation/Screenshot 2025-02-20 at 12.30.21 PM.png"> </p>
 <p align="center"> <img src="Project presentation/Screenshot 2025-02-20 at 12.30.21 PM.png"> </p>
 
+<img src="Project presentation/Screenshot 2025-02-20 at 12.30.21 PM.png" alt="Screenshot 2025-02-20 at 12.30.21 PM" width="500"/>
+![At a glace](Project%20presentation/Screenshot%202025-02-20%20at%2012.30.21%20PM.png)
+
 ![At a glace](<Project presentation/Screenshot 2025-02-20 at 12.30.21 PM.png>)
 
 
